@@ -1,12 +1,11 @@
-# PHP-Crud
+# PHP Crud Operation
+## These are Basic PHP CRUD Operations :---
 
-These are Basic PHP CRUD Operations :---
+### C --> Create
+### R --> Read
+### U --> Update
+### D --> Delete
 
-C --> Create
-R --> Read
-U --> Update
-D --> Delete
-
-It also Contain 
-* [HTML Forms]
-* [Database Connection(PHP--MySQL)]
+## It also Contain 
+### [HTML Forms]
+### [Database Connection(PHP--MySQL)]
